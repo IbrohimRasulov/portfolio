@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600;900&display=swap");
+}
+
+html {
+  background: #17171f;
+}
